@@ -44,7 +44,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ## PDF Files
-[Project Report](IE360-Project Report.pdf)
+[Project Report](Project Report.pdf)
 
 https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/IE360_Spring24_Syllabus.pdf
 ### Correct linking of .html and .pdf files:

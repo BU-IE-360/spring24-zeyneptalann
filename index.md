@@ -46,7 +46,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## PDF Files
 [Project Report](Project Report.pdf)
 
-https://bu-ie-360.github.io/spring24-zeyneptalann-boun/Project Report.pdf
+[Project Report](https://bu-ie-360.github.io/spring24-zeyneptalann-boun/Project Report.pdf)
 ### Correct linking of .html and .pdf files:
 
 

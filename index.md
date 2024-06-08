@@ -45,4 +45,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ## PDF Files
-[ProjectPart3](files/IE360-Project Report.pdf)
+[Project Report](https://github.com/BU-IE-360/spring-24-zeyneptalann/blob/main/files/IE360-Project Report.pdf)

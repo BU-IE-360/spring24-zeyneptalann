@@ -31,10 +31,18 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 
+## HTML Files:
 
+[Example](files/ZeynepTalan.html)
+
+[Project](files/Project.html)
 
 ## Jupyter Notebook Files
 ## 1:
 
-[Project-Code](https://github.com/BU-IE-423/fall-23-zeyneptalann/blob/main/Project.ipynb)
+[Project-Code](https://github.com/BU-IE-360/spring-24-zeyneptalann/blob/main/files/Project.ipynb)
 
+
+
+## PDF Files
+[ProjectPart3](files/IE360-Project Report.pdf)

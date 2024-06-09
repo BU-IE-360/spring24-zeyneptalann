@@ -37,5 +37,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [Project-Report](Project-Report.pdf)
 
 [Project](file/Project.ipynb)
-
-[Project](Project.ipynb)

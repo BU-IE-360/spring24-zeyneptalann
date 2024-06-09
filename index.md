@@ -32,3 +32,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [Project-HTML](file/Project.html)
 
+[Project Report](https://github.com/BU-IE-360/spring24-zeyneptalann/Project Report.pdf)

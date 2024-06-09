@@ -30,6 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
+[Link to my Journal](https://bu-ie-360.github.io/spring24-zeyneptalann/)
+
 [Project-HTML](file/Project.html)
 
 [Project-Report](Project-Report.pdf)

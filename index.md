@@ -39,5 +39,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 [Project](file/Project.ipynb)
 
 [Project](Project.ipynb)
-
-[Project](https://bu-ie-360.github.io/spring24-zeyneptalann/blob/main/file/Project.ipynb)
